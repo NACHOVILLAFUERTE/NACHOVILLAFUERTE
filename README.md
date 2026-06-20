@@ -1,16 +1,34 @@
-## Hi there 👋
+Hola, soy Ignacio 👋
+¡Bienvenidos a mi GitHub! 
+Soy un Desarrollador de Software y tecnico en redes. 
 
-<!--
-**NACHOVILLAFUERTE/NACHOVILLAFUERTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí
+🎓 Principal: Desarrollo en .NET
+📍 Ubicación: Guanajuato - Mexico
+💼 Puesto/trabajo actual: Desarrollo de Software en Visual Basic y Soporte de base de datos
+🌱 Aprendizaje actual: Desarrollo de software, desarrollo frontend y herramientas de ciberseguridad
+⚡ Dato curioso: Mi pasa tiempo es salir a correr y aprender carpinteria.
 
-Here are some ideas to get you started:
+Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo de software: Visual Basic
+Desarrollo Web: HTML, CSS, JavaScript
+Bases de Datos: MySQL, MSSQL
+Control de Versiones: Git, GitHub
+Tecnico en redes
+Ingles B1
+
+Contacto
+¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
+
+📧 Email: hjoseignacio@proton.me
+💼 LinkedIn: Ibsen Seijas en LinkedIn
+🌐 Portfolio: En construcción...
+
+GitHub Stats
+Top Languages
+
+Website
+GitHub commit activity
+
+¡Gracias por visitar mi perfil! 😄
