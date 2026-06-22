@@ -11,18 +11,18 @@ Acerca de mí
 
 
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:  
-  Desarrollo de software: Visual Basic  
-  Desarrollo Web: HTML, CSS, JavaScript  
-  Bases de Datos: MySQL, MSSQL  
-  Control de Versiones: Git, GitHub  
-  Tecnico en redes  
-  Ingles B1  
+- Desarrollo de software: Visual Basic  
+- Desarrollo Web: HTML, CSS, JavaScript  
+- Bases de Datos: MySQL, MSSQL  
+- Control de Versiones: Git, GitHub  
+- Tecnico en redes  
+- Ingles B1  
 
 Contacto  
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!   
 
 📧 Email: hjoseignacio@proton.me  
-💼 LinkedIn: www.linkedin.com/in/jose-ignacio-hernandez-villafuerte-3242a0159
+💼 LinkedIn: www.linkedin.com/in/jose-ignacio-hernandez-villafuerte-3242a0159  
 🌐 Portfolio: En construcción...  
 
 
