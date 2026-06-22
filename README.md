@@ -22,7 +22,7 @@ Contacto
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!   
 
 📧 Email: hjoseignacio@proton.me  
-💼 LinkedIn: www.linkedin.com/in/jose-ignacio-hernandez-villafuerte-3242a0159  
+💼 LinkedIn: [Perfil Ignacio](www.linkedin.com/in/jose-ignacio-hernandez-villafuerte-3242a0159 )    
 🌐 Portfolio: En construcción...  
 
 
